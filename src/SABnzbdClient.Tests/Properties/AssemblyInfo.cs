@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SABnzbdClient")]
+[assembly: AssemblyTitle("SABnzbdClient.Tests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SABnzbdClient")]
+[assembly: AssemblyProduct("SABnzbdClient.Tests")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f5a4dc3b-144d-4de6-8e72-cc4a8f53ce12")]
+[assembly: Guid("4ebb601a-f6c2-4b39-a100-a06da8269fa3")]
 
 // ServerVersion information for an assembly consists of the following four values:
 //
